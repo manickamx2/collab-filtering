@@ -1,0 +1,691 @@
+User,Artist,Plays
+User 1,sonata arctica,1112
+User 1,my chemical romance,518
+User 1,evanescence,450
+User 1,the offspring,227
+User 1,rammstein,165
+User 1,red hot chili peppers,137
+User 1,linkin park,126
+User 2,elliott smith,6393
+User 2,the rolling stones,822
+User 2,the smiths,808
+User 2,ramones,791
+User 2,led zeppelin,549
+User 2,air,468
+User 2,bob dylan,368
+User 3,pink floyd,1442
+User 3,metallica,1331
+User 3,the cure,1030
+User 3,the beatles,547
+User 3,joy division,444
+User 3,oasis,444
+User 3,radiohead,400
+User 3,queen,170
+User 3,led zeppelin,158
+User 3,the smiths,105
+User 3,ac/dc,82
+User 3,opeth,73
+User 3,the doors,61
+User 3,system of a down,59
+User 3,tool,39
+User 4,marilyn manson,19414
+User 4,tool,18137
+User 4,metallica,13135
+User 4,linkin park,12502
+User 4,slipknot,9056
+User 4,disturbed,3524
+User 4,nine inch nails,2303
+User 4,incubus,1889
+User 4,eminem,1575
+User 4,ac/dc,1569
+User 4,system of a down,1364
+User 4,nirvana,1287
+User 4,blink-182,1218
+User 4,megadeth,1099
+User 4,in flames,957
+User 4,dream theater,750
+User 4,iron maiden,654
+User 5,tori amos,16349
+User 5,portishead,8004
+User 5,björk,7292
+User 5,placebo,4888
+User 5,sigur rós,2534
+User 5,amy winehouse,1043
+User 5,air,786
+User 5,the beatles,585
+User 6,sonata arctica,24875
+User 6,children of bodom,21627
+User 6,nirvana,16155
+User 6,red hot chili peppers,13772
+User 6,pink floyd,5180
+User 6,led zeppelin,4963
+User 6,ac/dc,4850
+User 6,dream theater,4695
+User 6,iron maiden,3771
+User 6,opeth,2514
+User 7,r.e.m.,7739
+User 7,interpol,917
+User 7,sigur rós,658
+User 7,radiohead,471
+User 7,coldplay,464
+User 7,the beatles,452
+User 7,red hot chili peppers,306
+User 7,the rolling stones,243
+User 7,death cab for cutie,213
+User 7,david bowie,190
+User 7,bloc party,160
+User 8,children of bodom,8184
+User 8,koЯn,1389
+User 8,nightwish,1
+User 9,queen,146
+User 9,linkin park,36
+User 9,r.e.m.,23
+User 9,placebo,17
+User 9,u2,8
+User 9,depeche mode,7
+User 9,ac/dc,6
+User 9,nirvana,5
+User 9,red hot chili peppers,5
+User 9,the beatles,4
+User 9,kanye west,2
+User 9,sigur rós,2
+User 9,the kooks,2
+User 10,nine inch nails,1084
+User 10,the cure,502
+User 10,marilyn manson,411
+User 10,my chemical romance,383
+User 10,radiohead,372
+User 10,foo fighters,347
+User 10,the killers,138
+User 10,moby,115
+User 10,red hot chili peppers,94
+User 10,oasis,82
+User 10,r.e.m.,77
+User 10,evanescence,66
+User 10,a perfect circle,64
+User 10,queens of the stone age,40
+User 10,the white stripes,39
+User 10,elliott smith,25
+User 10,placebo,17
+User 10,koЯn,15
+User 10,arctic monkeys,12
+User 10,coldplay,12
+User 10,slipknot,12
+User 11,slipknot,16504
+User 11,marilyn manson,1746
+User 11,muse,279
+User 11,sigur rós,222
+User 12,david bowie,861
+User 12,depeche mode,839
+User 12,the cure,756
+User 12,radiohead,415
+User 12,nine inch nails,356
+User 12,pink floyd,256
+User 12,massive attack,244
+User 12,the beatles,205
+User 12,the prodigy,205
+User 12,tool,199
+User 12,portishead,140
+User 12,the smashing pumpkins,107
+User 13,björk,7013
+User 13,queen,6882
+User 13,nirvana,6065
+User 13,red hot chili peppers,5442
+User 13,system of a down,5389
+User 13,the clash,4491
+User 13,marilyn manson,4476
+User 13,blink-182,4345
+User 13,ac/dc,4333
+User 13,green day,4237
+User 13,metallica,4236
+User 13,rammstein,4160
+User 13,led zeppelin,4033
+User 13,linkin park,3885
+User 13,evanescence,3709
+User 13,nine inch nails,3496
+User 13,muse,3062
+User 13,nightwish,3024
+User 13,koЯn,2948
+User 13,avril lavigne,2927
+User 13,the offspring,2439
+User 13,the prodigy,2427
+User 13,the beatles,2394
+User 13,placebo,1771
+User 13,daft punk,1686
+User 14,rammstein,34302
+User 14,nine inch nails,11382
+User 14,blink-182,2054
+User 14,evanescence,1574
+User 14,my chemical romance,1432
+User 14,marilyn manson,1363
+User 14,led zeppelin,1233
+User 14,koЯn,1193
+User 14,metallica,1130
+User 14,nightwish,949
+User 15,the cure,16806
+User 15,r.e.m.,13960
+User 15,depeche mode,12454
+User 15,oasis,6622
+User 15,the beatles,5483
+User 15,koЯn,4648
+User 15,metallica,4543
+User 15,nine inch nails,3774
+User 15,nirvana,2963
+User 15,madonna,2348
+User 15,u2,2068
+User 15,marilyn manson,1919
+User 15,placebo,1813
+User 15,red hot chili peppers,1152
+User 15,evanescence,960
+User 15,radiohead,925
+User 15,the offspring,826
+User 15,pearl jam,773
+User 15,the rolling stones,724
+User 15,system of a down,651
+User 16,kanye west,51
+User 16,green day,38
+User 16,coldplay,28
+User 16,evanescence,21
+User 16,madonna,20
+User 16,nirvana,20
+User 17,green day,11068
+User 17,the offspring,8707
+User 17,eminem,6424
+User 17,nofx,5592
+User 17,system of a down,4612
+User 17,red hot chili peppers,3263
+User 17,kanye west,1724
+User 17,linkin park,1653
+User 17,the rolling stones,1602
+User 17,pink floyd,1413
+User 18,pink floyd,6667
+User 18,pearl jam,6288
+User 18,bob dylan,5965
+User 18,david bowie,5052
+User 18,led zeppelin,3647
+User 18,the doors,1658
+User 18,the white stripes,1061
+User 18,the beatles,958
+User 18,coldplay,640
+User 19,slipknot,6677
+User 19,koЯn,5842
+User 19,in flames,3994
+User 19,megadeth,2392
+User 19,marilyn manson,1005
+User 19,system of a down,858
+User 19,dream theater,855
+User 19,rammstein,851
+User 19,metallica,802
+User 19,paramore,777
+User 19,iron maiden,452
+User 19,linkin park,348
+User 19,depeche mode,163
+User 19,a perfect circle,72
+User 20,disturbed,10731
+User 20,linkin park,9578
+User 20,nine inch nails,7637
+User 20,system of a down,6375
+User 20,a perfect circle,5927
+User 20,tool,4076
+User 20,coldplay,3130
+User 20,johnny cash,1345
+User 20,daft punk,1165
+User 20,koЯn,931
+User 20,slipknot,781
+User 20,foo fighters,543
+User 20,the killers,417
+User 20,ac/dc,357
+User 20,red hot chili peppers,302
+User 20,rammstein,265
+User 20,r.e.m.,238
+User 21,rise against,17519
+User 21,nofx,12528
+User 21,the beatles,12248
+User 21,pixies,6456
+User 21,red hot chili peppers,3182
+User 21,the smashing pumpkins,3009
+User 21,system of a down,2916
+User 21,bright eyes,2810
+User 21,bob dylan,1845
+User 21,the smiths,1185
+User 21,david bowie,1071
+User 21,daft punk,895
+User 21,the clash,854
+User 21,my chemical romance,847
+User 22,marilyn manson,17594
+User 22,nine inch nails,9417
+User 22,system of a down,5621
+User 22,nirvana,4707
+User 22,rammstein,4360
+User 22,koЯn,3860
+User 22,daft punk,1278
+User 22,slipknot,491
+User 22,r.e.m.,471
+User 22,tool,468
+User 22,my chemical romance,386
+User 22,children of bodom,359
+User 23,in flames,3088
+User 23,slipknot,1066
+User 23,linkin park,736
+User 23,coldplay,422
+User 23,rage against the machine,120
+User 24,tom waits,16908
+User 24,evanescence,11717
+User 24,green day,1727
+User 24,megadeth,1295
+User 24,a perfect circle,1039
+User 24,marilyn manson,799
+User 24,rage against the machine,723
+User 24,david bowie,708
+User 24,bad religion,690
+User 24,gorillaz,573
+User 25,rammstein,13799
+User 25,system of a down,11226
+User 25,bright eyes,10451
+User 25,evanescence,8708
+User 25,fall out boy,7498
+User 25,the smashing pumpkins,2834
+User 25,green day,887
+User 25,nine inch nails,731
+User 25,linkin park,653
+User 25,placebo,634
+User 25,muse,619
+User 25,blink-182,544
+User 25,marilyn manson,506
+User 25,the rolling stones,439
+User 25,depeche mode,436
+User 26,system of a down,8074
+User 26,the offspring,7233
+User 26,iron maiden,6460
+User 26,koЯn,5691
+User 26,nightwish,5016
+User 26,muse,4655
+User 26,moby,4410
+User 26,green day,3501
+User 26,r.e.m.,3449
+User 26,slipknot,3303
+User 26,linkin park,2877
+User 26,pink floyd,2794
+User 26,incubus,2786
+User 26,rage against the machine,2645
+User 26,nine inch nails,2143
+User 26,the white stripes,2136
+User 26,gorillaz,2134
+User 26,eminem,2122
+User 26,disturbed,2054
+User 26,franz ferdinand,1966
+User 26,foo fighters,1879
+User 27,marilyn manson,11549
+User 27,queens of the stone age,7569
+User 27,muse,3243
+User 27,arctic monkeys,1750
+User 27,rammstein,1502
+User 27,a perfect circle,1264
+User 27,iron maiden,1228
+User 27,tom waits,1172
+User 27,ac/dc,825
+User 27,slipknot,767
+User 27,system of a down,713
+User 27,tool,535
+User 27,blink-182,520
+User 27,koЯn,517
+User 27,the white stripes,464
+User 27,red hot chili peppers,380
+User 28,muse,6582
+User 28,the killers,6279
+User 28,coldplay,6048
+User 28,radiohead,5318
+User 28,arctic monkeys,5194
+User 28,the strokes,4763
+User 28,blink-182,4679
+User 28,red hot chili peppers,2444
+User 28,franz ferdinand,2337
+User 28,the kooks,2286
+User 28,foo fighters,2279
+User 28,ramones,2276
+User 28,nirvana,2214
+User 28,my chemical romance,2205
+User 28,pink floyd,2146
+User 28,pearl jam,2086
+User 28,the offspring,1997
+User 28,bloc party,1895
+User 28,jack johnson,1876
+User 28,the beatles,1716
+User 28,the white stripes,1708
+User 28,incubus,1671
+User 28,green day,1521
+User 28,u2,1484
+User 28,kings of leon,1440
+User 28,the smashing pumpkins,1323
+User 28,rage against the machine,1260
+User 28,interpol,1132
+User 29,system of a down,8158
+User 29,sonata arctica,6590
+User 29,opeth,4727
+User 29,porcupine tree,4516
+User 29,children of bodom,3823
+User 29,the offspring,2726
+User 29,metallica,2272
+User 29,nightwish,925
+User 29,foo fighters,351
+User 30,muse,14432
+User 30,koЯn,14118
+User 30,tool,10883
+User 30,metallica,5198
+User 30,gorillaz,4748
+User 30,blink-182,3720
+User 30,my chemical romance,2218
+User 30,system of a down,2035
+User 30,the smashing pumpkins,1758
+User 30,death cab for cutie,1662
+User 30,beck,1245
+User 30,rage against the machine,1205
+User 30,massive attack,937
+User 30,daft punk,912
+User 30,incubus,887
+User 30,kings of leon,858
+User 30,coldplay,749
+User 30,green day,657
+User 30,the white stripes,585
+User 30,queens of the stone age,445
+User 30,radiohead,381
+User 30,the killers,361
+User 31,depeche mode,9249
+User 31,rammstein,7121
+User 31,opeth,6258
+User 31,tool,5729
+User 31,in flames,5093
+User 31,dream theater,3920
+User 31,megadeth,3502
+User 31,iron maiden,2722
+User 31,led zeppelin,2577
+User 31,avril lavigne,2496
+User 31,rage against the machine,2438
+User 31,a perfect circle,2360
+User 31,queen,2297
+User 31,nightwish,1748
+User 31,daft punk,1035
+User 31,system of a down,1006
+User 31,muse,657
+User 31,massive attack,555
+User 31,pink floyd,546
+User 31,gorillaz,220
+User 31,sonata arctica,158
+User 32,sufjan stevens,16212
+User 32,bob dylan,13762
+User 32,elliott smith,8580
+User 32,the shins,6023
+User 32,sigur rós,5407
+User 32,muse,4835
+User 32,the beatles,4660
+User 32,bloc party,2673
+User 32,death cab for cutie,2360
+User 33,green day,8277
+User 33,marilyn manson,6592
+User 33,the smashing pumpkins,6580
+User 33,the prodigy,6535
+User 33,linkin park,5723
+User 33,r.e.m.,5613
+User 33,red hot chili peppers,5364
+User 33,evanescence,5262
+User 33,rage against the machine,4679
+User 33,rammstein,4642
+User 33,pearl jam,3753
+User 33,system of a down,3424
+User 33,tool,3072
+User 33,koЯn,2631
+User 33,blink-182,2181
+User 34,nine inch nails,9385
+User 34,linkin park,7215
+User 34,dream theater,6569
+User 34,the killers,5947
+User 34,blink-182,5670
+User 34,bright eyes,4822
+User 34,evanescence,3950
+User 34,muse,3798
+User 34,metallica,3002
+User 34,the smashing pumpkins,2166
+User 34,interpol,1266
+User 34,disturbed,1255
+User 34,the white stripes,913
+User 34,arcade fire,839
+User 35,nine inch nails,6807
+User 35,depeche mode,5644
+User 35,nirvana,4653
+User 35,the beatles,4032
+User 35,the cure,3869
+User 35,marilyn manson,3780
+User 35,ramones,3677
+User 35,johnny cash,3544
+User 35,the clash,3334
+User 35,radiohead,3237
+User 35,massive attack,2889
+User 35,pink floyd,2789
+User 35,pixies,2750
+User 35,iron maiden,2717
+User 35,muse,2497
+User 35,green day,2419
+User 35,eminem,2263
+User 35,system of a down,2104
+User 35,tori amos,1801
+User 35,bright eyes,1748
+User 35,david bowie,1740
+User 35,red hot chili peppers,1736
+User 35,portishead,1673
+User 35,the white stripes,1645
+User 35,björk,1639
+User 36,radiohead,9189
+User 36,tool,8553
+User 36,a perfect circle,7544
+User 36,foo fighters,6895
+User 36,pearl jam,4319
+User 36,nirvana,2555
+User 36,green day,2318
+User 36,koЯn,2123
+User 36,system of a down,1907
+User 36,metallica,1878
+User 36,the killers,1087
+User 36,kings of leon,918
+User 36,muse,822
+User 36,rage against the machine,614
+User 36,the strokes,610
+User 37,my chemical romance,13014
+User 37,linkin park,9299
+User 37,blink-182,8729
+User 37,fall out boy,5428
+User 37,marilyn manson,1515
+User 37,green day,963
+User 38,muse,9317
+User 38,pink floyd,6638
+User 38,bloc party,5141
+User 38,rage against the machine,4625
+User 38,the smashing pumpkins,4488
+User 38,death cab for cutie,4486
+User 38,the beatles,4465
+User 38,sigur rós,3656
+User 38,radiohead,3235
+User 38,arctic monkeys,3097
+User 38,jack johnson,1945
+User 38,kings of leon,1905
+User 38,the white stripes,1549
+User 38,nine inch nails,1544
+User 38,air,1490
+User 38,red hot chili peppers,1258
+User 38,coldplay,1110
+User 38,incubus,1093
+User 38,rammstein,1061
+User 39,ac/dc,15720
+User 39,massive attack,10376
+User 39,foo fighters,5678
+User 39,eminem,4500
+User 39,system of a down,3594
+User 39,disturbed,2086
+User 39,rage against the machine,1644
+User 39,amy winehouse,1117
+User 39,blink-182,1111
+User 39,linkin park,868
+User 39,moby,692
+User 39,marilyn manson,512
+User 39,the offspring,413
+User 39,fall out boy,295
+User 39,queen,284
+User 39,my chemical romance,239
+User 40,the shins,14451
+User 40,gorillaz,13103
+User 40,arctic monkeys,11248
+User 40,the white stripes,3160
+User 40,the strokes,3104
+User 40,daft punk,3036
+User 40,red hot chili peppers,2357
+User 40,eminem,1955
+User 40,depeche mode,1585
+User 40,sufjan stevens,1524
+User 40,placebo,1142
+User 40,bob dylan,1110
+User 40,the rolling stones,1046
+User 40,the cure,1031
+User 40,tegan and sara,1028
+User 40,muse,990
+User 40,radiohead,943
+User 41,the smashing pumpkins,12271
+User 41,bright eyes,7074
+User 41,the beatles,6712
+User 41,radiohead,4952
+User 41,queen,4515
+User 41,the white stripes,3667
+User 41,muse,3628
+User 41,death cab for cutie,3489
+User 41,the clash,3186
+User 41,placebo,2398
+User 41,nofx,2040
+User 41,the cure,1751
+User 41,pink floyd,1466
+User 41,the smiths,1355
+User 41,modest mouse,1341
+User 41,nirvana,1255
+User 41,ac/dc,1119
+User 42,system of a down,13638
+User 42,foo fighters,12454
+User 42,metallica,8958
+User 42,children of bodom,8422
+User 42,koЯn,4413
+User 42,in flames,3357
+User 42,evanescence,2447
+User 42,green day,1574
+User 42,ac/dc,1331
+User 42,marilyn manson,1225
+User 42,moby,873
+User 42,nirvana,823
+User 42,nightwish,805
+User 42,bad religion,666
+User 43,the beatles,6386
+User 43,bright eyes,5541
+User 43,the doors,5295
+User 43,led zeppelin,2985
+User 43,björk,2637
+User 43,koЯn,2469
+User 43,metallica,2462
+User 43,pink floyd,2453
+User 43,eminem,2210
+User 43,the cure,2111
+User 43,pearl jam,2082
+User 43,marilyn manson,1982
+User 43,the smashing pumpkins,1961
+User 43,red hot chili peppers,1910
+User 43,u2,1893
+User 43,tom waits,1890
+User 43,incubus,1882
+User 43,nine inch nails,1843
+User 43,r.e.m.,1834
+User 43,system of a down,1782
+User 43,radiohead,1751
+User 43,blink-182,1658
+User 43,the rolling stones,1591
+User 43,modest mouse,1505
+User 43,gorillaz,1499
+User 43,the white stripes,1489
+User 43,interpol,1443
+User 44,rage against the machine,10480
+User 44,red hot chili peppers,8295
+User 44,foo fighters,5246
+User 44,nirvana,4916
+User 44,bad religion,4639
+User 44,ac/dc,3913
+User 44,metallica,3710
+User 44,the offspring,3239
+User 44,nine inch nails,2879
+User 44,pearl jam,1501
+User 45,tool,9538
+User 45,a perfect circle,9347
+User 45,arctic monkeys,4624
+User 45,muse,4312
+User 45,radiohead,3242
+User 45,koЯn,3210
+User 45,rage against the machine,2209
+User 45,the prodigy,1855
+User 45,coldplay,1821
+User 45,the white stripes,1793
+User 45,red hot chili peppers,1571
+User 45,tori amos,1548
+User 45,linkin park,852
+User 45,moby,807
+User 45,the offspring,760
+User 45,incubus,685
+User 45,massive attack,625
+User 46,incubus,12245
+User 46,nirvana,9970
+User 46,radiohead,7838
+User 46,megadeth,6615
+User 46,red hot chili peppers,5068
+User 46,children of bodom,4627
+User 46,coldplay,3737
+User 46,dream theater,3338
+User 46,ac/dc,2417
+User 46,iron maiden,2208
+User 46,daft punk,2084
+User 46,queen,767
+User 46,pink floyd,718
+User 46,oasis,685
+User 47,nine inch nails,15411
+User 47,tool,6280
+User 47,opeth,6043
+User 47,coldplay,5307
+User 47,koЯn,4587
+User 47,pink floyd,3751
+User 47,rammstein,2119
+User 47,metallica,1789
+User 47,disturbed,1542
+User 47,the white stripes,1457
+User 47,rage against the machine,1286
+User 47,dream theater,1068
+User 47,radiohead,954
+User 47,led zeppelin,888
+User 47,a perfect circle,886
+User 47,slipknot,693
+User 47,system of a down,645
+User 47,oasis,620
+User 47,the doors,407
+User 48,iron maiden,14040
+User 48,nightwish,5382
+User 48,system of a down,4204
+User 48,linkin park,3942
+User 48,eminem,1455
+User 48,queen,930
+User 48,the offspring,642
+User 49,pink floyd,13555
+User 49,tori amos,7982
+User 49,avril lavigne,7557
+User 49,the white stripes,7359
+User 49,pixies,7293
+User 49,the doors,4214
+User 49,tool,3265
+User 49,portishead,3145
+User 50,led zeppelin,16609
+User 50,iron maiden,9121
+User 50,pearl jam,8605
+User 50,bob dylan,5482
+User 50,the beatles,3344
+User 50,nirvana,2720
+User 50,the doors,2041
+User 50,metallica,1791
+User 50,queen,1713
